@@ -18,6 +18,7 @@ I love games, game development and functional programming.
     - [HEborn](https://github.com/HackerExperience/HEBorn) ([Hacker Experience 2](https://github.com/HackerExperience)'s Frontend - As an Employee) - A Hacker Simulation Game
     - Elm Calculator (Personal Project) - My first elm project.
   - Elixir
+    - [Arch-Composer](https://github.com/themaxhero/Arch-Composer) - My way of creating a reusable custom install of archlinux. 
     - [Helix](https://github.com/HackerExperience/Helix) ([Hacker Experience 2](https://github.com/HackerExperience)'s Backend - As an Employee) - A Hacker Simulation Game
 
 <!--
