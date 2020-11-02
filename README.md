@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm Marcelo, But I'm most known as **max** or **maxhero**
 
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=themaxhero)
+
 ### About me
 I love games, game development and functional programming.
 
