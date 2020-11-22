@@ -1,6 +1,11 @@
 ### Hi there 👋
 I'm Marcelo, But I'm most known as **max** or **maxhero**
 
+### Trophies
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?theme=monokai&margin-w=8&column=7&username=themaxhero" alt="Trophies" />
+</a></p>
+
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=themaxhero)
 
