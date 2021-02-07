@@ -1,17 +1,5 @@
-### Hi there 👋
-I'm Marcelo, But I'm most known as **max** or **maxhero**
-
-### Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=monokai&margin-w=8&column=7&username=themaxhero" alt="Trophies" />
-  </a>
-</p>
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=themaxhero)
-
 ### About me
+I'm Marcelo, But I'm most known as **max** or **maxhero**
 I love [anime](https://myanimelist.net/animelist/maxhero), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
 
 - 🔭 I’m currently working on [**Carrier Pigeon**](https://github.com/themaxhero/CarrierPigeon) and [**my tiling chat project**.](https://github.com/themaxhero/Tiling-Chat)
@@ -36,6 +24,16 @@ I love [anime](https://myanimelist.net/animelist/maxhero), games, [game developm
   | [Carrier Pigeon](https://github.com/themaxhero/CarrierPigeon) | Personal Project |  A Realtime Chat Server. |
   | [Arch-Composer](https://github.com/themaxhero/Arch-Composer) | Personal Project | My way of creating a reusable custom install of archlinux. |
   | [Helix](https://github.com/HackerExperience/Helix) | [Hacker Experience 2](https://github.com/HackerExperience)'s Backend - As an Employee | A Hacker Simulation Game |
+  
+### Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=monokai&margin-w=8&column=7&username=themaxhero" alt="Trophies" />
+  </a>
+</p>
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=themaxhero)
 
 <!--
 **themaxhero/themaxhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
