@@ -12,7 +12,7 @@ I'm Marcelo, But I'm most known as **max** or **maxhero**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=themaxhero)
 
 ### About me
-I love games, game development and functional programming.
+I love [anime](https://myanimelist.net/animelist/maxhero), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
 
 - 🔭 I’m currently working on [**Carrier Pigeon**](https://github.com/themaxhero/CarrierPigeon) and [**my tiling chat project**.](https://github.com/themaxhero/Tiling-Chat)
 - 🌱 I’m currently learning [**Rust**](https://www.rust-lang.org/), [**Bevy Engine**](https://bevyengine.org/) and [**Entity Component System (ECS)**](https://en.wikipedia.org/wiki/Entity_component_system)
