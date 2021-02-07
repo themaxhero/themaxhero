@@ -12,7 +12,7 @@ I'm Marcelo, But I'm most known as **max** or **maxhero**
 ### About me
 I love games, game development and functional programming.
 
-- 🔭 I’m currently working on **Banco BMG Project** and [**my tiling chat project**.](https://github.com/themaxhero/Tiling-Chat)
+- 🔭 I’m currently working on [**Carrier Pigeon**](https://github.com/themaxhero/CarrierPigeon) and [**my tiling chat project**.](https://github.com/themaxhero/Tiling-Chat)
 - 🌱 I’m currently learning **Rust** and **Entity Component System (ECS)**
 - 💬 Ask me about anything (except for politics)
 - 📫 How to reach me:
@@ -21,11 +21,12 @@ I love games, game development and functional programming.
 - 😄 Pronouns: he/him
 - 📋 Projects
   - Elm
-    - [Tiling-Chat](https://github.com/themaxhero/Tiling-Chat) (Personal Project) - An i3-wm inspired chat client made in Elm
+    - [Tiling Chat](https://github.com/themaxhero/Tiling-Chat) (Personal Project) - An i3-wm inspired chat client made in Elm
     - [Hero Music Player](https://github.com/themaxhero/Hero-Music-Player) (Personal Project) - A Music Player with Minimalistic design made in Elm
     - [HEborn](https://github.com/HackerExperience/HEBorn) ([Hacker Experience 2](https://github.com/HackerExperience)'s Frontend - As an Employee) - A Hacker Simulation Game
     - Elm Calculator (Personal Project) - My first elm project.
   - Elixir
+    - [Carrier Pigeon](https://github.com/themaxhero/CarrierPigeon) - A Realtime Chat Server.
     - [Arch-Composer](https://github.com/themaxhero/Arch-Composer) - My way of creating a reusable custom install of archlinux. 
     - [Helix](https://github.com/HackerExperience/Helix) ([Hacker Experience 2](https://github.com/HackerExperience)'s Backend - As an Employee) - A Hacker Simulation Game
 
