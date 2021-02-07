@@ -2,9 +2,11 @@
 I'm Marcelo, But I'm most known as **max** or **maxhero**
 
 ### Trophies
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?theme=monokai&margin-w=8&column=7&username=themaxhero" alt="Trophies" />
-</a></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?theme=monokai&margin-w=8&column=7&username=themaxhero" alt="Trophies" />
+  </a>
+</p>
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=themaxhero)
@@ -13,7 +15,7 @@ I'm Marcelo, But I'm most known as **max** or **maxhero**
 I love games, game development and functional programming.
 
 - 🔭 I’m currently working on [**Carrier Pigeon**](https://github.com/themaxhero/CarrierPigeon) and [**my tiling chat project**.](https://github.com/themaxhero/Tiling-Chat)
-- 🌱 I’m currently learning **Rust** and **Entity Component System (ECS)**
+- 🌱 I’m currently learning [**Rust**](https://www.rust-lang.org/), [**Bevy Engine**](https://bevyengine.org/) and [**Entity Component System (ECS)**](https://en.wikipedia.org/wiki/Entity_component_system)
 - 💬 Ask me about anything (except for politics)
 - 📫 How to reach me:
   - My Email: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
