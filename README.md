@@ -23,6 +23,7 @@ I love [anime](https://myanimelist.net/animelist/maxhero), games, [game developm
 #### Elixir
   | Name | Type | Description |
   | --- | --- | --- |
+  | [Package-Wizard](https://github.com/themaxhero/Package-Wizard) | Personal Project |  Like ad-hoc polimorfism, but for shipping companies. |
   | [Carrier Pigeon](https://github.com/themaxhero/CarrierPigeon) | Personal Project |  A Realtime Chat Server. |
   | [Arch-Composer](https://github.com/themaxhero/Arch-Composer) | Personal Project | My way of creating a reusable custom install of archlinux. |
   | [Helix](https://github.com/HackerExperience/Helix) | [Hacker Experience 2](https://github.com/HackerExperience)'s Backend - As an Employee | A Hacker Simulation Game |
