@@ -7,7 +7,6 @@ I love [anime](https://myanimelist.net/animelist/maxhero), games, [game developm
 - 🌱 I’m currently learning [**Rust**](https://www.rust-lang.org/), [**Bevy Engine**](https://bevyengine.org/) and [**Entity Component System (ECS)**](https://en.wikipedia.org/wiki/Entity_component_system)
 - 💬 Ask me about anything (except for politics)
 - 📫 How to reach me:
-  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/marcelo-max-santos/)
   - My Email: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
   - My Twitter: [@maxhero_](http://www.twitter.com/maxhero_)
 - 😄 Pronouns: he/him
