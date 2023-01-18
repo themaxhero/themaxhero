@@ -3,6 +3,12 @@ I'm Marcelo, But I'm most known as **max** or **maxhero**.
 
 I love [anime](https://myanimelist.net/animelist/maxhero), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
 
+<div>
+  <a href="https://github.com/themaxhero">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxhero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxhero&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 - 🔭 I’m currently working on [**Carrier Pigeon**](https://github.com/themaxhero/CarrierPigeon) and [**my tiling chat project**.](https://github.com/themaxhero/Tiling-Chat)
 - 🌱 I’m currently learning [**Rust**](https://www.rust-lang.org/), [**Bevy Engine**](https://bevyengine.org/) and [**Entity Component System (ECS)**](https://en.wikipedia.org/wiki/Entity_component_system)
 - 💬 Ask me about anything (except for politics)
