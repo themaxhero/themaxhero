@@ -15,7 +15,7 @@ I love [anime](https://myanimelist.net/animelist/maxhero), games, [game developm
 <div>
   <a href="https://github.com/themaxhero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxhero&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxhero&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxhero&layout=compact&langs_count=10&theme=monokai"/>
 </div>
 
 ### 📋 Projects
