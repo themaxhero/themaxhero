@@ -11,6 +11,13 @@ I love [anime](https://myanimelist.net/animelist/maxhero), games, [game developm
   - My Twitter: [@maxhero_](http://www.twitter.com/maxhero_)
 - 😄 Pronouns: he/him
 
+
+<div>
+  <a href="https://github.com/themaxhero">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxhero&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxhero&layout=compact&langs_count=7&theme=monokai"/>
+</div>
+
 ### 📋 Projects
 #### Elm
   | Name | Type | Description |
@@ -26,12 +33,6 @@ I love [anime](https://myanimelist.net/animelist/maxhero), games, [game developm
   | [Carrier Pigeon](https://github.com/themaxhero/CarrierPigeon) | Personal Project |  A Realtime Chat Server. |
   | [Arch-Composer](https://github.com/themaxhero/Arch-Composer) | Personal Project | My way of creating a reusable custom install of archlinux. |
   | [Helix](https://github.com/HackerExperience/Helix) | [Hacker Experience 2](https://github.com/HackerExperience)'s Backend - As an Employee | A Hacker Simulation Game |
-
-<div>
-  <a href="https://github.com/themaxhero">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxhero&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxhero&layout=compact&langs_count=7&theme=monokai"/>
-</div>
 
 <!--
 **themaxhero/themaxhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
