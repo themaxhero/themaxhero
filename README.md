@@ -27,11 +27,6 @@ I love [anime](https://myanimelist.net/animelist/maxhero), games, [game developm
   | [Arch-Composer](https://github.com/themaxhero/Arch-Composer) | Personal Project | My way of creating a reusable custom install of archlinux. |
   | [Helix](https://github.com/HackerExperience/Helix) | [Hacker Experience 2](https://github.com/HackerExperience)'s Backend - As an Employee | A Hacker Simulation Game |
 
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=monokai&username=themaxhero)
-
-
 <div>
   <a href="https://github.com/themaxhero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxhero&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
