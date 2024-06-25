@@ -1,35 +1,22 @@
 ### About me
 I'm Marcelo, But I'm most known as **max** or **maxhero**.
 
-I love [anime](https://myanimelist.net/animelist/maxhero), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
+I love [anime](https://anilist.co/user/maxhero/), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
 
-- 🔭 I’m currently working on some projects to develop my math skills.
-- 🌱 I’m currently learning math.
+- 🔭 Always exploring cool things with programming.
 - 💬 Ask me about anything (except for politics)
 - 📫 How to reach me:
   - My Email: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
   - My Twitter: [@maxhero_](http://www.twitter.com/maxhero_)
-- 😄 Pronouns: he/him
 
+Some Projects
+ - [My Lisp Interpreter written in Elixir](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
 
 <div>
   <a href="https://github.com/themaxhero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxhero&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxhero&layout=compact&langs_count=7&theme=monokai"/>
 </div>
-
-### 📋 Projects
-#### Elm
-  | Name | Type | Description |
-  | --- | --- | --- |
-  | [Tiling Chat](https://github.com/themaxhero/Tiling-Chat) | Personal Project | An i3-wm inspired chat client made in Elm |
-  | [Hero Music Player](https://github.com/themaxhero/Hero-Music-Player) | Personal Project | A Music Player with Minimalistic design made in Elm |
-  | [HEborn](https://github.com/HackerExperience/HEBorn) | [Hacker Experience 2](https://github.com/HackerExperience)'s Frontend - As an Employee | A Hacker Simulation Game |
-  | Elm Calculator | Personal Project | My first elm project |
-#### Elixir
-  | Name | Type | Description |
-  | --- | --- | --- |
-  | [Helix](https://github.com/HackerExperience/Helix) | [Hacker Experience 2](https://github.com/HackerExperience)'s Backend - As an Employee | A Hacker Simulation Game |
 
 <!--
 **themaxhero/themaxhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
