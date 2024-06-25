@@ -1,4 +1,4 @@
-~ [Japanese/日本語](./README-JP.MD) | [Portuguese (Brazil)/Português (Brasil)](./README-PT-BR.md) ~
+~ [Japanese/日本語](./README-JP.MD) · [Portuguese (Brazil)/Português (Brasil)](./README-PT-BR.md) ~
 
 ### About me
 I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
