@@ -1,16 +1,22 @@
 ### About me
 I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
 
-I love [anime](https://anilist.co/user/maxhero/), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
+### Interests
+ - [Anime](https://anilist.co/user/maxhero/).
+ - Games.
+ - [Game Development](https://en.wikipedia.org/wiki/Video_game_development).
+ - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
+ - デジモン
+ - 日本語と日本の文化
+
+### Some Projects
+ - [My Lisp Interpreter written in Elixir](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
 
 - 🔭 Always exploring cool things with programming.
 - 💬 Ask me about anything (except for politics)
 - 📫 How to reach me:
   - My Email: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
   - My Twitter: [@maxhero_](http://www.twitter.com/maxhero_)
-
-Some Projects
- - [My Lisp Interpreter written in Elixir](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
 
 <div>
   <a href="https://github.com/themaxhero">
