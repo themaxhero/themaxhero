@@ -6,7 +6,7 @@ I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
  - Games.
  - [Game Development](https://en.wikipedia.org/wiki/Video_game_development).
  - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
- - [デジモン](## "Or Digimon if you don't speak japanese")
+ - [デジモン](## "Digimon")
  - [日本語と日本の文化](## "Japanese Language + Japanese Culture")
 
 ### Some Projects
