@@ -1,5 +1,10 @@
 ### About me
 I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
+- 🔭 Always exploring cool things with programming.
+- 💬 Ask me about anything (except for politics)
+- 📫 How to reach me:
+  - My Email: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
+  - My Twitter: [@maxhero_](http://www.twitter.com/maxhero_)
 
 ### Interests
  - [Anime](https://anilist.co/user/maxhero/).
@@ -11,12 +16,6 @@ I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
 
 ### Some Projects
  - [My Lisp Interpreter written in Elixir](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
-
-- 🔭 Always exploring cool things with programming.
-- 💬 Ask me about anything (except for politics)
-- 📫 How to reach me:
-  - My Email: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
-  - My Twitter: [@maxhero_](http://www.twitter.com/maxhero_)
 
 <div>
   <a href="https://github.com/themaxhero">
