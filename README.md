@@ -11,8 +11,8 @@ I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
  - Games.
  - [Game Development](https://en.wikipedia.org/wiki/Video_game_development).
  - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
- - [デジモン](## "Digimon")
- - [日本語と日本の文化](## "Japanese Language + Japanese Culture")
+ - [デジモン](## "Digimon").
+ - [日本語と日本の文化](## "Japanese Language + Japanese Culture").
 
 ### Some Projects
  - [My Lisp Interpreter written in Elixir](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
