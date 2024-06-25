@@ -1,4 +1,4 @@
-~ [英語/English](./README.md) | [ブラジルのポルトガル語/Português (Brasil)](./README-PT-BR.md) ~
+~ [英語/English](./README.md) · [ブラジルのポルトガル語/Português (Brasil)](./README-PT-BR.md) ~
 
 ### 僕について
 マルセロとお申します。
