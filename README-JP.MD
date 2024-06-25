@@ -1,4 +1,4 @@
-~ [英語/English](./README.MD) ~
+~ [英語/English](./README.md) ~
 
 ### 僕について
 マルセロとお申します。
