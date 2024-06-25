@@ -1,4 +1,4 @@
-~ [Japonês/日本語](./README-JP.MD) | [Inglês/English](./README.md) ~
+~ [Japonês/日本語](./README-JP.MD) · [Inglês/English](./README.md) ~
 
 ### Sobre mim
 Meu nome é Marcelo, Porém sou mais conhecido como **max** or **maxhero**.
