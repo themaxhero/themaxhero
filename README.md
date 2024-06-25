@@ -1,3 +1,5 @@
+~ [日本語](./README-JP.MD) ~
+
 ### About me
 I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
 
