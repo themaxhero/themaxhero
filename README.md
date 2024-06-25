@@ -1,5 +1,5 @@
 ### About me
-I'm Marcelo, But I'm most known as **max** or **maxhero**.
+I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
 
 I love [anime](https://anilist.co/user/maxhero/), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
 
