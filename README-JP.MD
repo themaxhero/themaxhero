@@ -17,7 +17,7 @@
  - デジモン
  - 日本語と日本の文化
 
-### プロジェックト
+### プロジェクト
  - [僕のElixirとNimbleParsecで開発したLisp Interpreter](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
 
 
