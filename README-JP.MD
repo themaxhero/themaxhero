@@ -9,7 +9,7 @@
   - メールアドレス: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
   - ツイター／X: [@maxhero_](http://www.twitter.com/maxhero_) | [@maxherojp](http://www.twitter.com/maxherojp)
 
-### 臭味
+### 趣味
  - [アニメ](https://anilist.co/user/maxhero/)
  - ゲーム
  - ゲーム開発
