@@ -3,7 +3,7 @@
 ### 僕について
 マルセロと申します。
 
-ネットで「**max**」や「**maxhero**」や「**マックスヒーロー**」と言うニックネームを使っています。
+ネットで「**max**」や「**maxhero**」や「**マックスヒーロー**」というニックネームを使っています。
 
 - 📫 連絡:
   - メールアドレス: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
