@@ -4,21 +4,24 @@
 I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
 
 - 🔭 Always exploring cool things with programming.
-- 💬 Ask me about anything (except for politics)
+- 💬 Ask me about anything
 - 📫 How to reach me:
   - My Email: [contato.maxhero@gmail.com](mailto:contato.maxhero@gmail.com)
   - My Twitter: [@maxhero_](http://www.twitter.com/maxhero_)
 
 ### Interests
  - [Anime](https://anilist.co/user/maxhero/).
- - Games.
- - [Game Development](https://en.wikipedia.org/wiki/Video_game_development).
- - [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming).
- - [デジモン](## "Digimon").
- - [日本語と日本の文化](## "Japanese Language + Japanese Culture").
+ - Games
+ - Game Development
+ - Functional Programming
+ - デジモン
+ - Japan and Japanese Culture
 
 ### Some Projects
- - [My Lisp Interpreter written in Elixir with NimbleParsec](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
+ - [HeroLISP (Scheme-like LISP made using Parser Combinators)](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
+ - [Snake Clone](https://github.com/themaxhero/snake)
+ - [Telegram Bot (Downloads Instagram Pictures and Pins from Pinterest)](https://github.com/themaxhero/telegram-gallery-dl-and-instaloader)
+ - [Max Hero's Party Manager for RPG Maker VX Ace](https://github.com/themaxhero/RPG-Maker-VX-Ace-Scripts/blob/master/Max%20Hero's%20PartyManager.rb)
 
 
 <div>
