@@ -11,10 +11,11 @@ I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
 
 ### Interests
  - [Anime](https://anilist.co/user/maxhero/).
- - Games
+ - Board Games
+ - Video Games
  - Game Development
  - Functional Programming
- - デジモン
+ - デジモン (Digimon)
  - Japan and Japanese Culture
 
 ### Some Projects
@@ -23,13 +24,13 @@ I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
  - [Telegram Bot (Downloads Instagram Pictures and Pins from Pinterest)](https://github.com/themaxhero/telegram-gallery-dl-and-instaloader)
  - [Max Hero's Party Manager for RPG Maker VX Ace](https://github.com/themaxhero/RPG-Maker-VX-Ace-Scripts/blob/master/Max%20Hero's%20PartyManager.rb)
 
-
+<!--
 <div>
   <a href="https://github.com/themaxhero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themaxhero&layout=compact&langs_count=7&theme=monokai"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themaxhero&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
 </div>
-
+-->
 <!--
 **themaxhero/themaxhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
