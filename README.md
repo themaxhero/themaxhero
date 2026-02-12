@@ -22,7 +22,7 @@ I'm Marcelo, But I'm mostly known as **max** or **maxhero**.
  - [HeroLISP (Scheme-like LISP made using Parser Combinators)](https://gist.github.com/themaxhero/1235fa762d5f4d0548ad743f2881a2fa)
  - [Snake Clone](https://github.com/themaxhero/snake)
  - [Telegram Bot (Downloads Instagram Pictures and Pins from Pinterest)](https://github.com/themaxhero/telegram-gallery-dl-and-instaloader)
- - [Timesum](https://github.com/themaxhero/timesum)
+ - [Timesum - CLI utility that sums time units and convert](https://github.com/themaxhero/timesum)
  - [Max Hero's Party Manager for RPG Maker VX Ace](https://github.com/themaxhero/RPG-Maker-VX-Ace-Scripts/blob/master/Max%20Hero's%20PartyManager.rb)
 
 <!--
